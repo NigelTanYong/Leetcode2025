@@ -10,45 +10,38 @@
  */
 class Solution {
     public ListNode mergeKLists(ListNode[] lists) {
-        if (lists == null || lists.length == 0) {
+        if(lists == null || lists.length ==0){
             return null;
         }
-
         ListNode mergedList = null;
-        
-        // Start with the first list
-        for (ListNode list : lists) {
-            mergedList = mergeTwoLists(mergedList, list);
+        for(ListNode list : lists){
+            mergedList = mergeHelper(mergedList, list);
         }
-        
-        return mergedList;
+        return mergedList; 
     }
-
-    // Merge two sorted linked lists
-    private ListNode mergeTwoLists(ListNode l1, ListNode l2) {
-        ListNode startPoint = new ListNode(0); //new node with value 0
-        ListNode current = startPoint;
-
-        // Merge both lists in sorted order
-        while (l1 != null && l2 != null) {
-            if (l1.val < l2.val) {
-                current.next = l1;
-                l1 = l1.next;
-            } else {
-                current.next = l2;
-                l2 = l2.next;
+    private ListNode mergeHelper(ListNode mergedList, ListNode list){
+        ListNode head = new ListNode(0);// initialise the 1st pointer (value does not matter)
+        ListNode current = head;
+        //merge lists in sorted order
+        while(mergedList!=null &&list!=null){ //traversing the linkedlist
+            if(mergedList.val < list.val){
+                current.next = mergedList;
+                mergedList = mergedList.next;
             }
-            current = current.next;
+            else{
+                current.next = list;
+                list = list.next;
+            }
+            current = current.next; //point to next node
         }
 
-        // If any list still has remaining nodes, append them
-        if (l1 != null) {
-            current.next = l1; //means attach the rest of 1 at current
-        } else {
-            current.next = l2;
+        if(mergedList != null){
+            current.next = mergedList;
         }
-
-        return startPoint.next;
+        else{
+            current.next = list; //attaching the list to current
+        }
+        return head.next;//return the head of the LinkList
     }
 
 }
