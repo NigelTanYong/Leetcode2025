@@ -20,8 +20,8 @@ class Solution {
         return mergedList; 
     }
     private ListNode mergeHelper(ListNode mergedList, ListNode list){
-        ListNode head = new ListNode(0);// initialise the 1st pointer (value does not matter)
-        ListNode current = head;
+        ListNode starter = new ListNode(0);// initialise the 1st pointer (value does not matter)
+        ListNode current = starter;
         //merge lists in sorted order
         while(mergedList!=null &&list!=null){ //traversing the linkedlist
             if(mergedList.val < list.val){
@@ -41,7 +41,7 @@ class Solution {
         else{
             current.next = list; //attaching the list to current
         }
-        return head.next;//return the head of the LinkList
+        return starter.next;//return the head of the LinkList
     }
 
 }
