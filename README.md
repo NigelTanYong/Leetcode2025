@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NigelTanYong/Leetcode2025/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0072-edit-distance](https://github.com/NigelTanYong/Leetcode2025/tree/master/0072-edit-distance) |
 ## Sliding Window
 |  |
 | ------- |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
+| [0072-edit-distance](https://github.com/NigelTanYong/Leetcode2025/tree/master/0072-edit-distance) |
 ## Stack
 |  |
 | ------- |
