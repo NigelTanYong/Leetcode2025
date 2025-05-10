@@ -1,43 +1,30 @@
 class Solution {
     public int maxCoins(int[] nums) {
         int n = nums.length;
-        int[][] dp = new int[n][n];
+        
+        // Add padding
+        int[] arr = new int[n + 2];
+        arr[0] = 1;
+        arr[n + 1] = 1;
+        for (int i = 0; i < n; i++) {
+            arr[i + 1] = nums[i];
+        }
 
-        for (int g = 0; g < n; g++) { // g = gap
-            for (int i = 0, j = g; j < n; i++, j++) {
-                int max = Integer.MIN_VALUE;
-                for (int k = i; k <= j; k++) {
-                    int left = 0;
-                    if (k != i) {
-                        left = dp[i][k - 1];
-                    }
+        int[][] dp = new int[n + 2][n + 2];
 
-                    int right = 0;
-                    if (k != j) {
-                        right = dp[k + 1][j];
-                    }
-
-                    int before = 1;
-                    if (i > 0) {
-                        before = nums[i - 1];
-                    }
-
-                    int after = 1;
-                    if (j < n - 1) {
-                        after = nums[j + 1];
-                    }
-
-                    int val = before * nums[k] * after;
-                    int total = left + right + val;
-
-                    if (total > max) {
-                        max = total;
-                    }
+        // length is the size of the range (not actual length of the subarray)
+        for (int length = 2; length < arr.length; length++) {
+            for (int left = 0; left < arr.length - length; left++) {
+                int right = left + length;
+                for (int i = left + 1; i < right; i++) {
+                    int coins = arr[left] * arr[i] * arr[right];
+                    int total = dp[left][i] + coins + dp[i][right];
+                    dp[left][right] = Math.max(dp[left][right], total);
                 }
-                dp[i][j] = max;
             }
         }
-        return dp[0][n - 1];
+
+        return dp[0][n + 1]; // whole range (excluding virtual balloons)
 
     }
 }
