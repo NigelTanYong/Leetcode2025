@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NigelTanYong/Leetcode2025/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
 | [0312-burst-balloons](https://github.com/NigelTanYong/Leetcode2025/tree/master/0312-burst-balloons) |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NigelTanYong/Leetcode2025/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Linked List
 |  |
 | ------- |
@@ -55,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
+## Greedy
+|  |
+| ------- |
+| [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NigelTanYong/Leetcode2025/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 <!---LeetCode Topics End-->
