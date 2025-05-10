@@ -6,12 +6,12 @@ class Solution {
         int[] arr = new int[n + 2];
         arr[0] = 1;
         arr[n + 1] = 1;
-        for (int i = 0; i < n; i++) {
+        for (int i = 0; i < n; i++) { //new array with paddings
             arr[i + 1] = nums[i];
         }
 
         int[][] dp = new int[n + 2][n + 2];
-
+                                         
         // length is the size of the range (not actual length of the subarray)
         for (int length = 2; length < arr.length; length++) {
             for (int left = 0; left < arr.length - length; left++) {
