@@ -10,8 +10,8 @@
  */
 class Solution {
     public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
-        ListNode starterNode = new ListNode(0);
-        ListNode current = starterNode;
+        ListNode dummyNode = new ListNode(0);
+        ListNode current = dummyNode;
         int carry = 0;
 
         while (l1 != null || l2!= null || carry!=0){
@@ -28,6 +28,6 @@ class Solution {
             current.next = new ListNode(sum%10);
             current = current.next;
         }
-        return starterNode.next;
+        return dummyNode.next;
     }
 }
