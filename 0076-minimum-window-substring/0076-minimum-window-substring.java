@@ -9,7 +9,7 @@ class Solution {
         for (char c : t.toCharArray())
             map[c]++; // e.g. map['A'] = map['A'] + 1
 
-        while (end < s.length()) {
+        while (end < s.length()) { //expanding windows
             char currentChar = s.charAt(end);
             end++;
             if (map[currentChar] > 0) {
@@ -17,7 +17,7 @@ class Solution {
             }
             map[currentChar]--;
 
-            while (count == 0) {
+            while (count == 0) { // when all t are included in the window, reduce window size
                 if (end - start < minLen) {
                     minStart = start;
                     minLen = end - start;
