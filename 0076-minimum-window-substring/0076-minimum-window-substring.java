@@ -1,44 +1,35 @@
 class Solution {
     public String minWindow(String s, String t) {
-         if (s == null || t == null || s.length() < t.length()) return "";
+        if (s == null || t == null || s.length() < t.length())
+            return "";
+        int[] map = new int[128]; //ASCII size
+        int count = t.length();
+        int start = 0, end = 0, minStart = 0, minLen = Integer.MAX_VALUE;
 
-        Map<Character, Integer> tFreq = new HashMap<>();
-        for (char c : t.toCharArray()) {
-            tFreq.put(c, tFreq.getOrDefault(c, 0) + 1);
-        }
+        for (char c : t.toCharArray())
+            map[c]++; // e.g. map['A'] = map['A'] + 1
 
-        Map<Character, Integer> window = new HashMap<>();
-        int left = 0, right = 0;
-        int required = tFreq.size();
-        int formed = 0;
-
-        int minLen = Integer.MAX_VALUE;
-        int minStart = 0;
-
-        while (right < s.length()) {
-            char c = s.charAt(right);
-            window.put(c, window.getOrDefault(c, 0) + 1);
-
-            if (tFreq.containsKey(c) && window.get(c).intValue() == tFreq.get(c).intValue()) {
-                formed++;
+        while (end < s.length()) {
+            char currentChar = s.charAt(end);
+            end++;
+            if (map[currentChar] > 0) {
+                count--;
             }
+            map[currentChar]--;
 
-            // Shrink the window from the left if it's valid
-            while (formed == required) {
-                if (right - left + 1 < minLen) {
-                    minLen = right - left + 1;
-                    minStart = left;
+            while (count == 0) {
+                if (end - start < minLen) {
+                    minStart = start;
+                    minLen = end - start;
                 }
 
-                char leftChar = s.charAt(left);
-                window.put(leftChar, window.get(leftChar) - 1);
-                if (tFreq.containsKey(leftChar) && window.get(leftChar).intValue() < tFreq.get(leftChar).intValue()) {
-                    formed--;
+                currentChar = s.charAt(start);
+                start++;
+                if (map[currentChar] == 0) {
+                    count++;
                 }
-                left++;
+                map[currentChar]++;
             }
-
-            right++;
         }
 
         return minLen == Integer.MAX_VALUE ? "" : s.substring(minStart, minStart + minLen);
