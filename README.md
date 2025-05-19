@@ -22,12 +22,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NigelTanYong/Leetcode2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NigelTanYong/Leetcode2025/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/NigelTanYong/Leetcode2025/tree/master/0076-minimum-window-substring) |
+| [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 ## Array
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/NigelTanYong/Leetcode2025/tree/master/0041-first-missing-positive) |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
+| [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0312-burst-balloons](https://github.com/NigelTanYong/Leetcode2025/tree/master/0312-burst-balloons) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NigelTanYong/Leetcode2025/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Linked List
@@ -77,4 +79,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0002-add-two-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 <!---LeetCode Topics End-->
