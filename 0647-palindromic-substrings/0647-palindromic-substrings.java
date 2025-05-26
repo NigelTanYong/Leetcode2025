@@ -1,3 +1,4 @@
+//expand around center method, O(n^2)
 class Solution {
     public int countSubstrings(String s) {
         if (s.length() == 0){
