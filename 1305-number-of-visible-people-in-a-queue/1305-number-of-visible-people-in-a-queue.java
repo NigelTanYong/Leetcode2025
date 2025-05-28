@@ -1,3 +1,4 @@
+// traverse right with stack O(n)
 class Solution {
     public int[] canSeePersonsCount(int[] heights) {
         int n=heights.length;
@@ -10,7 +11,7 @@ class Solution {
                 st.pop();
                 count++;
             }
-            if(!st.isEmpty()){
+            if(!st.isEmpty()){ //after all shorter are popped, there might be taller people
                 count++;
             }
             answer[i] = count;
