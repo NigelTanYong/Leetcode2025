@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0312-burst-balloons](https://github.com/NigelTanYong/Leetcode2025/tree/master/0312-burst-balloons) |
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/NigelTanYong/Leetcode2025/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NigelTanYong/Leetcode2025/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Linked List
 |  |
@@ -78,11 +79,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/NigelTanYong/Leetcode2025/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
+| [1305-number-of-visible-people-in-a-queue](https://github.com/NigelTanYong/Leetcode2025/tree/master/1305-number-of-visible-people-in-a-queue) |
 ## Greedy
 |  |
 | ------- |
