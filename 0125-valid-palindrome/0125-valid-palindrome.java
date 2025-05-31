@@ -1,3 +1,4 @@
+//2 pointer approach, O(n)
 class Solution {
     public boolean isPalindrome(String s) {
         String lowerCaseAlphaNumOnly = s.replaceAll("[^A-Za-z0-9]", "").toLowerCase();
