@@ -1,4 +1,4 @@
-//overwrite approach
+//overwrite approach, Time (fixed amount of time) and space (operates directly on existing node) complexity O(1)
 /**
  * Definition for singly-linked list.
  * public class ListNode {
