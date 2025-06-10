@@ -13,8 +13,13 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
+        if (head == null || head.next == null) { // nothing or only 1 node
+            return head;
+        }
+        
         ListNode prev = null;
         ListNode cur = head;
+        
         //traverse the linkedlist
         while(cur!=null){
             /* visualisation in first iteration
