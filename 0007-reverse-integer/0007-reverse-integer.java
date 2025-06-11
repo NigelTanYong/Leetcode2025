@@ -1,3 +1,5 @@
+//Time complexity: O(logn)
+//space: O(1)
 class Solution {
     public int reverse(int x) {
         int result = 0;
