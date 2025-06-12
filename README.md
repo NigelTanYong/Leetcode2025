@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0151-reverse-words-in-a-string) |
 | [0344-reverse-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0345-reverse-vowels-of-a-string) |
+| [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/NigelTanYong/Leetcode2025/tree/master/0647-palindromic-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NigelTanYong/Leetcode2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1894-merge-strings-alternately](https://github.com/NigelTanYong/Leetcode2025/tree/master/1894-merge-strings-alternately) |
@@ -119,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0007-reverse-integer) |
+| [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NigelTanYong/Leetcode2025/tree/master/1146-greatest-common-divisor-of-strings) |
 ## Recursion
@@ -148,4 +150,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
