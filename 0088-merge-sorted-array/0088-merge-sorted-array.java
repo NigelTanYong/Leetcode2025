@@ -1,3 +1,4 @@
+//in-place merge algo, time complexity==o(m+n) space complexity == O(1)
 class Solution {
     public void merge(int[] nums1, int m, int[] nums2, int n) {
         int i = m-1, j = n-1; //point to last index
