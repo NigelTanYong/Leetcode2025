@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
+| [0278-first-bad-version](https://github.com/NigelTanYong/Leetcode2025/tree/master/0278-first-bad-version) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -169,4 +170,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0204-count-primes) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/NigelTanYong/Leetcode2025/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
