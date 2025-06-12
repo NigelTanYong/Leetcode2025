@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/NigelTanYong/Leetcode2025/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/NigelTanYong/Leetcode2025/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0088-merge-sorted-array) |
+| [0204-count-primes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NigelTanYong/Leetcode2025/tree/master/0238-product-of-array-except-self) |
 | [0312-burst-balloons](https://github.com/NigelTanYong/Leetcode2025/tree/master/0312-burst-balloons) |
@@ -123,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0013-roman-to-integer) |
+| [0204-count-primes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/NigelTanYong/Leetcode2025/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/1013-fibonacci-number) |
@@ -159,4 +161,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
+## Enumeration
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0204-count-primes) |
+## Number Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
