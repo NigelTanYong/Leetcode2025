@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NigelTanYong/Leetcode2025/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NigelTanYong/Leetcode2025/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0041-first-missing-positive](https://github.com/NigelTanYong/Leetcode2025/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/NigelTanYong/Leetcode2025/tree/master/0076-minimum-window-substring) |
@@ -14,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/NigelTanYong/Leetcode2025/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0013-roman-to-integer) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NigelTanYong/Leetcode2025/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0072-edit-distance](https://github.com/NigelTanYong/Leetcode2025/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/NigelTanYong/Leetcode2025/tree/master/0076-minimum-window-substring) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0002-add-two-numbers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0007-reverse-integer) |
+| [0013-roman-to-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0013-roman-to-integer) |
 | [0326-power-of-three](https://github.com/NigelTanYong/Leetcode2025/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/1013-fibonacci-number) |
