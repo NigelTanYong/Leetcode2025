@@ -1,15 +1,13 @@
 //O(n)
 class Solution {
     public String reverseWords(String s) {
-        String[] words = s.trim().split("\\s+"); // remove trailing, ending spaces, splits the string into words, using one or more whitespace characters (spaces, tabs, etc.) as the separator
+        String[] word = s.trim().split("\\s+");
         StringBuilder result = new StringBuilder();
 
-        for(int i = words.length-1; i>=0; i--){
-            result.append(words[i]);
-            if(i!=0){//if not the last word, add a space
-                result.append(" ");
-            }
+        for(int i = word.length-1; i>=0; i-- ){
+            result.append(word[i]);
+            if(i!=0) result.append(" ");
         }
-        return result.toString();
+        return String.valueOf(result);
     }
 }
