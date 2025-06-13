@@ -1,4 +1,5 @@
 //binary search approach -- keeps dividing in half and check low and high side till answer is reached on mid
+//time complexity: Ologn, space complexity: O(1)
 class Solution {
     public int search(int[] nums, int target) {
         int low = 0, high = nums.length - 1;
