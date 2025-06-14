@@ -1,29 +1,28 @@
 //two-pointer approach
 class Solution {
     public int trap(int[] height) {
-        int right = height.length -1;
-        int left =0, maxLeft = 0, maxRight =0, totalWaterCollected = 0;
-
-        while(left<right){
-            if(height[left] < height[right]){ //process left side
-                if(height[left] >= maxLeft){ // if previous max height is higher than current
-                    maxLeft = height[left];//set as maxLeft
-                }
-                else{
-                    totalWaterCollected += maxLeft - height[left];
-                }  
-                left++;
+       int left=0, right = height.length -1, maxLeft=0, maxRight =0;
+        int result = 0;
+       while(left<right){
+        if(height[left]<height[right]){
+            if(height[left] < maxLeft){
+                result = result + (maxLeft - height[left]);
             }
-            else{ //process right side
-                if(height[right] >= maxRight){
-                    maxRight = height[right];
-                }
-                else{
-                    totalWaterCollected += maxRight - height[right];
-                }
-                right--;
+            else{
+                maxLeft = height[left];
             }
+            left++;
         }
-        return totalWaterCollected;
+        else{
+            if(height[right]<maxRight){
+                result = result + (maxRight -height[right]);
+            }
+            else{
+                maxRight = height[right];
+            }
+            right--;
+        }
+       } 
+       return result;
     }
 }
