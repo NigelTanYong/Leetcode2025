@@ -1,3 +1,4 @@
+// time and space complexity: O(max(n,m)) ---because l1 an l2 can be different length
 /**
  * Definition for singly-linked list.
  * public class ListNode {
@@ -25,7 +26,7 @@ class Solution {
             }
             carry = sum/10;
             currentNode.next = new ListNode(sum%10); //linking a new node to resultNode
-            currentNode = currentNode.next;
+            currentNode = currentNode.next; //skip the first node that was declared as 
         }
         return resultNode.next;
     }
