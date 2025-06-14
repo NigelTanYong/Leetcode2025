@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0088-merge-sorted-array) |
 | [0204-count-primes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
+| [0221-maximal-square](https://github.com/NigelTanYong/Leetcode2025/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/NigelTanYong/Leetcode2025/tree/master/0238-product-of-array-except-self) |
 | [0312-burst-balloons](https://github.com/NigelTanYong/Leetcode2025/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0334-increasing-triplet-subsequence) |
@@ -105,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
 | [0072-edit-distance](https://github.com/NigelTanYong/Leetcode2025/tree/master/0072-edit-distance) |
+| [0221-maximal-square](https://github.com/NigelTanYong/Leetcode2025/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/NigelTanYong/Leetcode2025/tree/master/0312-burst-balloons) |
 | [0647-palindromic-substrings](https://github.com/NigelTanYong/Leetcode2025/tree/master/0647-palindromic-substrings) |
 | [1013-fibonacci-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/1013-fibonacci-number) |
@@ -188,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/NigelTanYong/Leetcode2025/tree/master/0278-first-bad-version) |
+## Matrix
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/NigelTanYong/Leetcode2025/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
