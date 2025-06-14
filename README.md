@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0076-minimum-window-substring](https://github.com/NigelTanYong/Leetcode2025/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/NigelTanYong/Leetcode2025/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0151-reverse-words-in-a-string) |
+| [0179-largest-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0345-reverse-vowels-of-a-string) |
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NigelTanYong/Leetcode2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0128-longest-consecutive-sequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0128-longest-consecutive-sequence) |
+| [0179-largest-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0179-largest-number) |
 | [0204-count-primes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/NigelTanYong/Leetcode2025/tree/master/0221-maximal-square) |
@@ -133,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0605-can-place-flowers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NigelTanYong/Leetcode2025/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -177,6 +180,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/NigelTanYong/Leetcode2025/tree/master/0056-merge-intervals) |
 | [0075-sort-colors](https://github.com/NigelTanYong/Leetcode2025/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0088-merge-sorted-array) |
+| [0179-largest-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0179-largest-number) |
 ## Memoization
 |  |
 | ------- |
