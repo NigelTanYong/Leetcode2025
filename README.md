@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0443-string-compression](https://github.com/NigelTanYong/Leetcode2025/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/NigelTanYong/Leetcode2025/tree/master/0647-palindromic-substrings) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NigelTanYong/Leetcode2025/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/NigelTanYong/Leetcode2025/tree/master/1894-merge-strings-alternately) |
 ## Sliding Window
 |  |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/NigelTanYong/Leetcode2025/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/NigelTanYong/Leetcode2025/tree/master/1305-number-of-visible-people-in-a-queue) |
+| [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
