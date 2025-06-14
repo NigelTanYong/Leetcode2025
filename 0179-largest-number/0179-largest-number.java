@@ -1,3 +1,5 @@
+/*Time Complexity:O(n log n)
+Space Complexity: O(n) */
 class Solution {
     public String largestNumber(int[] nums) {
         PriorityQueue<String> maxHeap = new PriorityQueue<>((a,b)-> (b+a).compareTo(a+b)); //compare by char
