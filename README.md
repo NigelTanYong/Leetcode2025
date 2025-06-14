@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0041-first-missing-positive](https://github.com/NigelTanYong/Leetcode2025/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/NigelTanYong/Leetcode2025/tree/master/0049-group-anagrams) |
 | [0076-minimum-window-substring](https://github.com/NigelTanYong/Leetcode2025/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/NigelTanYong/Leetcode2025/tree/master/0141-linked-list-cycle) |
 | [0523-continuous-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0523-continuous-subarray-sum) |
 ## String
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NigelTanYong/Leetcode2025/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NigelTanYong/Leetcode2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0128-longest-consecutive-sequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0128-longest-consecutive-sequence) |
 | [0204-count-primes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0204-count-primes) |
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0221-maximal-square](https://github.com/NigelTanYong/Leetcode2025/tree/master/0221-maximal-square) |
@@ -200,4 +202,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/NigelTanYong/Leetcode2025/tree/master/0221-maximal-square) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
