@@ -15,7 +15,7 @@ class Solution {
         while(!maxHeap.isEmpty()){
             result.append(maxHeap.poll()); //return and remove from priority queue
         }
-        //handle cases like ["0","0"]--- we don't want 00 but 0
+        //handle cases like at the beginning ["0","0"]--- we don't want 00 but 0
         if(result.charAt(0) == '0') return "0";
         return result.toString();
     }
