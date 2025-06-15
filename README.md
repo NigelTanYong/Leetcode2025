@@ -128,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
+| [0070-climbing-stairs](https://github.com/NigelTanYong/Leetcode2025/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/NigelTanYong/Leetcode2025/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NigelTanYong/Leetcode2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0198-house-robber](https://github.com/NigelTanYong/Leetcode2025/tree/master/0198-house-robber) |
@@ -165,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0013-roman-to-integer) |
+| [0070-climbing-stairs](https://github.com/NigelTanYong/Leetcode2025/tree/master/0070-climbing-stairs) |
 | [0204-count-primes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0204-count-primes) |
 | [0326-power-of-three](https://github.com/NigelTanYong/Leetcode2025/tree/master/0326-power-of-three) |
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
@@ -206,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/NigelTanYong/Leetcode2025/tree/master/0070-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/1013-fibonacci-number) |
 ## Simulation
 |  |
