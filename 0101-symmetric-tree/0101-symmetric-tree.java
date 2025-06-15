@@ -13,6 +13,8 @@
  *     }
  * }
  */
+
+ //Time complexity: O(n), Space complexity: O(h)
 class Solution {//preordered tree
     public boolean isSymmetric(TreeNode root) {
         TreeNode left = root.left;
