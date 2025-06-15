@@ -1,4 +1,5 @@
 //2 pointer approach
+//Time Complexity: O(n+m), Space Complexity: O(1)
 class Solution {
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int num1Len = nums1.length;
@@ -6,10 +7,11 @@ class Solution {
         int i = 0, j= 0;
         int m1 = 0, m2 =0; //track the last two numbers seen while traversing
 
-        //find median
+        //find median- iterate until reach the middle of the merged array
         for(int count = 0; count <= (num1Len+num2Len)/2; count++){
             m2 = m1; //m2 keeps previous value
-            if(i!=num1Len && j!= num2Len){
+            // If both arrays have elements left to compare
+            if(i!=num1Len && j!= num2Len){ // take the smaller by simulating mergesort
                 if(nums1[i]>nums2[j]){
                     m1 = nums2[j];
                     j++;
@@ -19,10 +21,10 @@ class Solution {
                     i++;
                 }
             }
-            else if(i<num1Len){
+            else if(i<num1Len){ // If nums1 still has elements left
                 m1 = nums1[i];
                 i++;
-            } else{ //i >= nums1Len
+            } else{ //i >= nums1Len -- If nums2 still has elements left
                 m1 = nums2[j];
                 j++;
             }
