@@ -242,6 +242,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/NigelTanYong/Leetcode2025/tree/master/0200-number-of-islands) |
@@ -253,11 +254,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0124-binary-tree-maximum-path-sum) |
 ## Binary Tree
 |  |
 | ------- |
+| [0098-validate-binary-search-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0098-validate-binary-search-tree) |
 | [0101-symmetric-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0101-symmetric-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0098-validate-binary-search-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0098-validate-binary-search-tree) |
 <!---LeetCode Topics End-->
