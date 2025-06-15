@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0001-two-sum) |
+| [0004-median-of-two-sorted-arrays](https://github.com/NigelTanYong/Leetcode2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0011-container-with-most-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0011-container-with-most-water) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0033-search-in-rotated-sorted-array) |
 | [0041-first-missing-positive](https://github.com/NigelTanYong/Leetcode2025/tree/master/0041-first-missing-positive) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NigelTanYong/Leetcode2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0023-merge-k-sorted-lists](https://github.com/NigelTanYong/Leetcode2025/tree/master/0023-merge-k-sorted-lists) |
 ## Heap (Priority Queue)
 |  |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/NigelTanYong/Leetcode2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/NigelTanYong/Leetcode2025/tree/master/0278-first-bad-version) |
