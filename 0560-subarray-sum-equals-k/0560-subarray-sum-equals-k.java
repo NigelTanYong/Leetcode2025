@@ -1,3 +1,4 @@
+//time and space complexity: O(n)
 class Solution {
     public int subarraySum(int[] nums, int k) {
         Map<Integer, Integer> map = new HashMap<>(); //store the prefix sum and no.of time sum has appear
