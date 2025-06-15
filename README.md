@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NigelTanYong/Leetcode2025/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NigelTanYong/Leetcode2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0523-continuous-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/NigelTanYong/Leetcode2025/tree/master/0560-subarray-sum-equals-k) |
 ## String
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0453-minimum-moves-to-equal-array-elements](https://github.com/NigelTanYong/Leetcode2025/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0523-continuous-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/NigelTanYong/Leetcode2025/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0605-can-place-flowers) |
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
 | [1127-last-stone-weight](https://github.com/NigelTanYong/Leetcode2025/tree/master/1127-last-stone-weight) |
@@ -179,6 +181,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0238-product-of-array-except-self](https://github.com/NigelTanYong/Leetcode2025/tree/master/0238-product-of-array-except-self) |
 | [0523-continuous-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0523-continuous-subarray-sum) |
+| [0560-subarray-sum-equals-k](https://github.com/NigelTanYong/Leetcode2025/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
