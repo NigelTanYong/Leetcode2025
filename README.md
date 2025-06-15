@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/NigelTanYong/Leetcode2025/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/NigelTanYong/Leetcode2025/tree/master/0647-palindromic-substrings) |
+| [0874-backspace-string-compare](https://github.com/NigelTanYong/Leetcode2025/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NigelTanYong/Leetcode2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 | [1894-merge-strings-alternately](https://github.com/NigelTanYong/Leetcode2025/tree/master/1894-merge-strings-alternately) |
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0345-reverse-vowels-of-a-string) |
 | [0443-string-compression](https://github.com/NigelTanYong/Leetcode2025/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/NigelTanYong/Leetcode2025/tree/master/0647-palindromic-substrings) |
+| [0874-backspace-string-compare](https://github.com/NigelTanYong/Leetcode2025/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/NigelTanYong/Leetcode2025/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
 |  |
@@ -132,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/NigelTanYong/Leetcode2025/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
+| [0874-backspace-string-compare](https://github.com/NigelTanYong/Leetcode2025/tree/master/0874-backspace-string-compare) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/NigelTanYong/Leetcode2025/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
 ## Monotonic Stack
@@ -198,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
+| [0874-backspace-string-compare](https://github.com/NigelTanYong/Leetcode2025/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NigelTanYong/Leetcode2025/tree/master/1505-create-target-array-in-the-given-order) |
 ## Enumeration
 |  |
