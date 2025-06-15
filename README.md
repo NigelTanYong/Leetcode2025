@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/NigelTanYong/Leetcode2025/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/NigelTanYong/Leetcode2025/tree/master/0072-edit-distance) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/NigelTanYong/Leetcode2025/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0198-house-robber](https://github.com/NigelTanYong/Leetcode2025/tree/master/0198-house-robber) |
 | [0221-maximal-square](https://github.com/NigelTanYong/Leetcode2025/tree/master/0221-maximal-square) |
 | [0312-burst-balloons](https://github.com/NigelTanYong/Leetcode2025/tree/master/0312-burst-balloons) |
@@ -241,9 +242,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0200-number-of-islands](https://github.com/NigelTanYong/Leetcode2025/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/NigelTanYong/Leetcode2025/tree/master/0200-number-of-islands) |
+## Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0124-binary-tree-maximum-path-sum) |
+## Binary Tree
+|  |
+| ------- |
+| [0124-binary-tree-maximum-path-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0124-binary-tree-maximum-path-sum) |
 <!---LeetCode Topics End-->
