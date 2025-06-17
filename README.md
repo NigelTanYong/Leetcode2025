@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1305-number-of-visible-people-in-a-queue](https://github.com/NigelTanYong/Leetcode2025/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NigelTanYong/Leetcode2025/tree/master/1505-create-target-array-in-the-given-order) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NigelTanYong/Leetcode2025/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/NigelTanYong/Leetcode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NigelTanYong/Leetcode2025/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Linked List
 |  |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0179-largest-number) |
 | [0334-increasing-triplet-subsequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0605-can-place-flowers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0605-can-place-flowers) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/NigelTanYong/Leetcode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NigelTanYong/Leetcode2025/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 ## Math
 |  |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0033-search-in-rotated-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0033-search-in-rotated-sorted-array) |
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/NigelTanYong/Leetcode2025/tree/master/0278-first-bad-version) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/NigelTanYong/Leetcode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -212,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/NigelTanYong/Leetcode2025/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0179-largest-number) |
+| [2263-maximum-running-time-of-n-computers](https://github.com/NigelTanYong/Leetcode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 ## Memoization
 |  |
 | ------- |
