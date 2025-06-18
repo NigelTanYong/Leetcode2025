@@ -9,6 +9,7 @@ class Solution {
         }
 
         int i = 0, numOfBatteries = batteries.length;
+        // loop greedily removes the largest batteries that are too large
         while(batteries[(numOfBatteries - 1) - i] > sum/(n - i)){ // suppose giving each of remaining computer equal time (sum/numOfBatteries - i)
             /*If a battery is larger than this fair share,
             then it’s too big to include in the fair division (since it would force others to have less).
