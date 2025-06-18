@@ -1,3 +1,5 @@
+//greedy approach
+//Time complexity: O(mlog(m)), Space complexity: O(1)
 class Solution {
     public long maxRunTime(int n, int[] batteries) {
         //sort from small to large
