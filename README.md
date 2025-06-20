@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/NigelTanYong/Leetcode2025/tree/master/0020-valid-parentheses) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NigelTanYong/Leetcode2025/tree/master/0030-substring-with-concatenation-of-all-words) |
+| [0032-longest-valid-parentheses](https://github.com/NigelTanYong/Leetcode2025/tree/master/0032-longest-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/NigelTanYong/Leetcode2025/tree/master/0049-group-anagrams) |
 | [0072-edit-distance](https://github.com/NigelTanYong/Leetcode2025/tree/master/0072-edit-distance) |
 | [0076-minimum-window-substring](https://github.com/NigelTanYong/Leetcode2025/tree/master/0076-minimum-window-substring) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0032-longest-valid-parentheses](https://github.com/NigelTanYong/Leetcode2025/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
 | [0070-climbing-stairs](https://github.com/NigelTanYong/Leetcode2025/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/NigelTanYong/Leetcode2025/tree/master/0072-edit-distance) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/NigelTanYong/Leetcode2025/tree/master/0020-valid-parentheses) |
+| [0032-longest-valid-parentheses](https://github.com/NigelTanYong/Leetcode2025/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/NigelTanYong/Leetcode2025/tree/master/0234-palindrome-linked-list) |
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
