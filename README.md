@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/NigelTanYong/Leetcode2025/tree/master/0049-group-anagrams) |
 | [0056-merge-intervals](https://github.com/NigelTanYong/Leetcode2025/tree/master/0056-merge-intervals) |
+| [0066-plus-one](https://github.com/NigelTanYong/Leetcode2025/tree/master/0066-plus-one) |
 | [0075-sort-colors](https://github.com/NigelTanYong/Leetcode2025/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0088-merge-sorted-array) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -199,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0002-add-two-numbers) |
 | [0007-reverse-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/NigelTanYong/Leetcode2025/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/NigelTanYong/Leetcode2025/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/NigelTanYong/Leetcode2025/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0204-count-primes) |
