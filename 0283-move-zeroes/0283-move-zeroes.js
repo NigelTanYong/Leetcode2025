@@ -11,5 +11,4 @@ var moveZeroes = function(nums) {
             left++;
         }
     }
-    return nums;
 };
