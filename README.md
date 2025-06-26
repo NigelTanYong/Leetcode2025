@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/NigelTanYong/Leetcode2025/tree/master/0217-contains-duplicate) |
 | [0221-maximal-square](https://github.com/NigelTanYong/Leetcode2025/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/NigelTanYong/Leetcode2025/tree/master/0238-product-of-array-except-self) |
+| [0283-move-zeroes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0283-move-zeroes) |
 | [0312-burst-balloons](https://github.com/NigelTanYong/Leetcode2025/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0160-intersection-of-two-linked-lists](https://github.com/NigelTanYong/Leetcode2025/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NigelTanYong/Leetcode2025/tree/master/0234-palindrome-linked-list) |
+| [0283-move-zeroes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/0350-intersection-of-two-arrays-ii) |
