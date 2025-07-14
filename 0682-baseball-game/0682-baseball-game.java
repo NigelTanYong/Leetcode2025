@@ -1,3 +1,4 @@
+// Time and Space complexity: O(n)
 class Solution {
     public int calPoints(String[] operations) {
         Stack<Integer> st = new Stack<>();
