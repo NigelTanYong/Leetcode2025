@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0523-continuous-subarray-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/NigelTanYong/Leetcode2025/tree/master/0560-subarray-sum-equals-k) |
 | [0605-can-place-flowers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0605-can-place-flowers) |
+| [0682-baseball-game](https://github.com/NigelTanYong/Leetcode2025/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/NigelTanYong/Leetcode2025/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1127-last-stone-weight](https://github.com/NigelTanYong/Leetcode2025/tree/master/1127-last-stone-weight) |
@@ -175,6 +176,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0032-longest-valid-parentheses](https://github.com/NigelTanYong/Leetcode2025/tree/master/0032-longest-valid-parentheses) |
 | [0042-trapping-rain-water](https://github.com/NigelTanYong/Leetcode2025/tree/master/0042-trapping-rain-water) |
 | [0234-palindrome-linked-list](https://github.com/NigelTanYong/Leetcode2025/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/NigelTanYong/Leetcode2025/tree/master/0682-baseball-game) |
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
 | [0874-backspace-string-compare](https://github.com/NigelTanYong/Leetcode2025/tree/master/0874-backspace-string-compare) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/NigelTanYong/Leetcode2025/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
+| [0682-baseball-game](https://github.com/NigelTanYong/Leetcode2025/tree/master/0682-baseball-game) |
 | [0874-backspace-string-compare](https://github.com/NigelTanYong/Leetcode2025/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NigelTanYong/Leetcode2025/tree/master/1505-create-target-array-in-the-given-order) |
 ## Enumeration
