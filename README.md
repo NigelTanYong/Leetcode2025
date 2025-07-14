@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/NigelTanYong/Leetcode2025/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/NigelTanYong/Leetcode2025/tree/master/0647-palindromic-substrings) |
+| [0742-to-lower-case](https://github.com/NigelTanYong/Leetcode2025/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/NigelTanYong/Leetcode2025/tree/master/0874-backspace-string-compare) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NigelTanYong/Leetcode2025/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1320-remove-all-adjacent-duplicates-in-string-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/1320-remove-all-adjacent-duplicates-in-string-ii) |
