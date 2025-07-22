@@ -13,27 +13,21 @@
  */
 class Solution {
     public ListNode reverseList(ListNode head) {
-        if (head == null || head.next == null) { // nothing or only 1 node
-            return head;
-        }
-        
-        ListNode prev = null;
+        //constraint allows 0 no. of nodes. so we need to have edge case to return if null or 1 node
+        //loop while cur not null
+        ////initialise a temp listnode to hold cur.next
+        ////set the cur.next to prev --reversing pointer
+        ///forward  prev pointer to cur
+        ////forward cur pointer to temp
+        //return prev
+        ListNode prev =null;
         ListNode cur = head;
-        
-        //traverse the linkedlist
+        if(head == null || head.next == null) return head;
         while(cur!=null){
-            /* visualisation in first iteration
-            1->2->3->4
-            cur points 1
-            cur.next points to null at beginning
-            cur points to 2
-            null<-1<-2->3->4
-            ....
-            */
             ListNode temp = cur.next;
-            cur.next = prev; //null<-1
-            prev = cur; //pointer at 1
-            cur = temp; //pointer at 2
+            cur.next = prev;
+            prev = cur;
+            cur = temp;
         }
         return prev;
 
