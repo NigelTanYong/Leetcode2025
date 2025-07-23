@@ -229,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0523-continuous-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0523-continuous-subarray-sum) |
 | [1013-fibonacci-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/1013-fibonacci-number) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/NigelTanYong/Leetcode2025/tree/master/1146-greatest-common-divisor-of-strings) |
+| [1630-count-odd-numbers-in-an-interval-range](https://github.com/NigelTanYong/Leetcode2025/tree/master/1630-count-odd-numbers-in-an-interval-range) |
 ## Recursion
 |  |
 | ------- |
