@@ -1,3 +1,4 @@
+//time complexity and space complexity: o(1)
 class Solution {
     public int countOdds(int low, int high) {
         int nums = high-low +1; // total no in range
