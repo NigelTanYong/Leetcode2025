@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0128-longest-consecutive-sequence) |
 | [0135-candy](https://github.com/NigelTanYong/Leetcode2025/tree/master/0135-candy) |
 | [0136-single-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0136-single-number) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NigelTanYong/Leetcode2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0179-largest-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0179-largest-number) |
 | [0188-best-time-to-buy-and-sell-stock-iv](https://github.com/NigelTanYong/Leetcode2025/tree/master/0188-best-time-to-buy-and-sell-stock-iv) |
 | [0189-rotate-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0189-rotate-array) |
@@ -154,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0143-reorder-list](https://github.com/NigelTanYong/Leetcode2025/tree/master/0143-reorder-list) |
 | [0151-reverse-words-in-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0151-reverse-words-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NigelTanYong/Leetcode2025/tree/master/0160-intersection-of-two-linked-lists) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NigelTanYong/Leetcode2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NigelTanYong/Leetcode2025/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0283-move-zeroes) |
@@ -245,6 +247,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/NigelTanYong/Leetcode2025/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0033-search-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/NigelTanYong/Leetcode2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/NigelTanYong/Leetcode2025/tree/master/0278-first-bad-version) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/0350-intersection-of-two-arrays-ii) |
