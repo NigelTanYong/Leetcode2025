@@ -1,19 +1,19 @@
 class MyHashSet {
-    HashSet<Integer> set; //space complexity o(n)
+    boolean[] data; //space complexity o(n)
     public MyHashSet() {
-        set = new HashSet<>();
+        data = new boolean[1000001];
     }
     
     public void add(int key) { //time complexity: O(1)
-        set.add(key);
+        data[key] = true;
     }
     
     public void remove(int key) { //time complexity: O(1)
-        set.remove(key);
+        data[key] = false;
     }
     
     public boolean contains(int key) { //time complexity: O(1)
-        return set.contains(key);
+        return data[key];
     }
 }
 
