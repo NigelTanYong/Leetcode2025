@@ -20,9 +20,10 @@ class Solution {
         ///forward  prev pointer to cur
         ////forward cur pointer to temp
         //return prev
-        ListNode prev =null;
+        ListNode prev = null;
         ListNode cur = head;
-        if(head == null || head.next == null) return head;
+
+        if(cur==null || cur.next==null) return head;
         while(cur!=null){
             ListNode temp = cur.next;
             cur.next = prev;
