@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/NigelTanYong/Leetcode2025/tree/master/0560-subarray-sum-equals-k) |
 | [0816-design-hashset](https://github.com/NigelTanYong/Leetcode2025/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NigelTanYong/Leetcode2025/tree/master/0817-design-hashmap) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NigelTanYong/Leetcode2025/tree/master/3242-count-elements-with-maximum-frequency) |
 ## String
 |  |
 | ------- |
@@ -110,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/NigelTanYong/Leetcode2025/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/NigelTanYong/Leetcode2025/tree/master/2263-maximum-running-time-of-n-computers) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/NigelTanYong/Leetcode2025/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NigelTanYong/Leetcode2025/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Linked List
 |  |
 | ------- |
@@ -351,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0387-first-unique-character-in-a-string) |
+| [3242-count-elements-with-maximum-frequency](https://github.com/NigelTanYong/Leetcode2025/tree/master/3242-count-elements-with-maximum-frequency) |
 ## Bit Manipulation
 |  |
 | ------- |
