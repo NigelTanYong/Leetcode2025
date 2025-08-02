@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0023-merge-k-sorted-lists](https://github.com/NigelTanYong/Leetcode2025/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0215-kth-largest-element-in-an-array) |
 | [0451-sort-characters-by-frequency](https://github.com/NigelTanYong/Leetcode2025/tree/master/0451-sort-characters-by-frequency) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/NigelTanYong/Leetcode2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/NigelTanYong/Leetcode2025/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1127-last-stone-weight](https://github.com/NigelTanYong/Leetcode2025/tree/master/1127-last-stone-weight) |
 ## Merge Sort
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/NigelTanYong/Leetcode2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/NigelTanYong/Leetcode2025/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Tree
 |  |
 | ------- |
@@ -352,11 +354,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0102-binary-tree-level-order-traversal](https://github.com/NigelTanYong/Leetcode2025/tree/master/0102-binary-tree-level-order-traversal) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0124-binary-tree-maximum-path-sum) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/NigelTanYong/Leetcode2025/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search Tree
 |  |
 | ------- |
 | [0098-validate-binary-search-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0098-validate-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/NigelTanYong/Leetcode2025/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/NigelTanYong/Leetcode2025/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Queue
 |  |
 | ------- |
@@ -380,6 +384,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0146-lru-cache](https://github.com/NigelTanYong/Leetcode2025/tree/master/0146-lru-cache) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/NigelTanYong/Leetcode2025/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0816-design-hashset](https://github.com/NigelTanYong/Leetcode2025/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NigelTanYong/Leetcode2025/tree/master/0817-design-hashmap) |
 ## Hash Function
@@ -404,4 +409,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0187-repeated-dna-sequences](https://github.com/NigelTanYong/Leetcode2025/tree/master/0187-repeated-dna-sequences) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/NigelTanYong/Leetcode2025/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
