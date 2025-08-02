@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/NigelTanYong/Leetcode2025/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NigelTanYong/Leetcode2025/tree/master/0817-design-hashmap) |
+| [0861-flipping-an-image](https://github.com/NigelTanYong/Leetcode2025/tree/master/0861-flipping-an-image) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/NigelTanYong/Leetcode2025/tree/master/0902-minimum-number-of-refueling-stops) |
 | [1127-last-stone-weight](https://github.com/NigelTanYong/Leetcode2025/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/NigelTanYong/Leetcode2025/tree/master/1305-number-of-visible-people-in-a-queue) |
@@ -182,6 +183,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0350-intersection-of-two-arrays-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0443-string-compression](https://github.com/NigelTanYong/Leetcode2025/tree/master/0443-string-compression) |
 | [0647-palindromic-substrings](https://github.com/NigelTanYong/Leetcode2025/tree/master/0647-palindromic-substrings) |
+| [0861-flipping-an-image](https://github.com/NigelTanYong/Leetcode2025/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/NigelTanYong/Leetcode2025/tree/master/0874-backspace-string-compare) |
 | [1894-merge-strings-alternately](https://github.com/NigelTanYong/Leetcode2025/tree/master/1894-merge-strings-alternately) |
 ## Dynamic Programming
@@ -303,6 +305,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/NigelTanYong/Leetcode2025/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/NigelTanYong/Leetcode2025/tree/master/0682-baseball-game) |
+| [0861-flipping-an-image](https://github.com/NigelTanYong/Leetcode2025/tree/master/0861-flipping-an-image) |
 | [0874-backspace-string-compare](https://github.com/NigelTanYong/Leetcode2025/tree/master/0874-backspace-string-compare) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NigelTanYong/Leetcode2025/tree/master/1505-create-target-array-in-the-given-order) |
 ## Enumeration
@@ -322,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0200-number-of-islands](https://github.com/NigelTanYong/Leetcode2025/tree/master/0200-number-of-islands) |
 | [0221-maximal-square](https://github.com/NigelTanYong/Leetcode2025/tree/master/0221-maximal-square) |
+| [0861-flipping-an-image](https://github.com/NigelTanYong/Leetcode2025/tree/master/0861-flipping-an-image) |
 ## Union Find
 |  |
 | ------- |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/NigelTanYong/Leetcode2025/tree/master/0187-repeated-dna-sequences) |
+| [0861-flipping-an-image](https://github.com/NigelTanYong/Leetcode2025/tree/master/0861-flipping-an-image) |
 ## Quickselect
 |  |
 | ------- |
