@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/NigelTanYong/Leetcode2025/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/NigelTanYong/Leetcode2025/tree/master/0146-lru-cache) |
 | [0160-intersection-of-two-linked-lists](https://github.com/NigelTanYong/Leetcode2025/tree/master/0160-intersection-of-two-linked-lists) |
+| [0187-repeated-dna-sequences](https://github.com/NigelTanYong/Leetcode2025/tree/master/0187-repeated-dna-sequences) |
 | [0217-contains-duplicate](https://github.com/NigelTanYong/Leetcode2025/tree/master/0217-contains-duplicate) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0387-first-unique-character-in-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0387-first-unique-character-in-a-string) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/NigelTanYong/Leetcode2025/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0151-reverse-words-in-a-string) |
 | [0179-largest-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0179-largest-number) |
+| [0187-repeated-dna-sequences](https://github.com/NigelTanYong/Leetcode2025/tree/master/0187-repeated-dna-sequences) |
 | [0344-reverse-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0387-first-unique-character-in-a-string) |
@@ -57,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/NigelTanYong/Leetcode2025/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0030-substring-with-concatenation-of-all-words](https://github.com/NigelTanYong/Leetcode2025/tree/master/0030-substring-with-concatenation-of-all-words) |
 | [0076-minimum-window-substring](https://github.com/NigelTanYong/Leetcode2025/tree/master/0076-minimum-window-substring) |
+| [0187-repeated-dna-sequences](https://github.com/NigelTanYong/Leetcode2025/tree/master/0187-repeated-dna-sequences) |
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/NigelTanYong/Leetcode2025/tree/master/0643-maximum-average-subarray-i) |
 ## Array
@@ -364,6 +367,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0136-single-number) |
+| [0187-repeated-dna-sequences](https://github.com/NigelTanYong/Leetcode2025/tree/master/0187-repeated-dna-sequences) |
 ## Quickselect
 |  |
 | ------- |
@@ -377,6 +381,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0187-repeated-dna-sequences](https://github.com/NigelTanYong/Leetcode2025/tree/master/0187-repeated-dna-sequences) |
 | [0816-design-hashset](https://github.com/NigelTanYong/Leetcode2025/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NigelTanYong/Leetcode2025/tree/master/0817-design-hashmap) |
 ## Doubly-Linked List
@@ -391,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0451-sort-characters-by-frequency](https://github.com/NigelTanYong/Leetcode2025/tree/master/0451-sort-characters-by-frequency) |
+## Rolling Hash
+|  |
+| ------- |
+| [0187-repeated-dna-sequences](https://github.com/NigelTanYong/Leetcode2025/tree/master/0187-repeated-dna-sequences) |
 <!---LeetCode Topics End-->
