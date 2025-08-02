@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/NigelTanYong/Leetcode2025/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/NigelTanYong/Leetcode2025/tree/master/0643-maximum-average-subarray-i) |
 | [0682-baseball-game](https://github.com/NigelTanYong/Leetcode2025/tree/master/0682-baseball-game) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/NigelTanYong/Leetcode2025/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0739-daily-temperatures](https://github.com/NigelTanYong/Leetcode2025/tree/master/0739-daily-temperatures) |
 | [0816-design-hashset](https://github.com/NigelTanYong/Leetcode2025/tree/master/0816-design-hashset) |
 | [0817-design-hashmap](https://github.com/NigelTanYong/Leetcode2025/tree/master/0817-design-hashmap) |
