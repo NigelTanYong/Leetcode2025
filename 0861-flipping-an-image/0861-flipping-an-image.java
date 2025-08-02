@@ -1,4 +1,5 @@
 //do it in-place
+//Time complexity: O(n*m), Space Complexity: O(1)
 class Solution {
     public int[][] flipAndInvertImage(int[][] image) {
         //let n be no. of rows
