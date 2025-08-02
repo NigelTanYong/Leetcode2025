@@ -1,3 +1,5 @@
+// Time complexity: O(n)
+// Space complexity:O(k)
 class Solution {
     public boolean containsNearbyDuplicate(int[] nums, int k) {
         //qn says if there are two distinct indices - means once this condition is met, we can return
