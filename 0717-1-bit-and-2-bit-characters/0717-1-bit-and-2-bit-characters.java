@@ -18,6 +18,6 @@ class Solution {
                 i++; //one bit
             }
         }
-        return i==bits.length-1;
+        return i==bits.length-1; //if equal means one-bit.
     }
 }
