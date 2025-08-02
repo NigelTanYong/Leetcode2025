@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/NigelTanYong/Leetcode2025/tree/master/0412-fizz-buzz) |
 | [0443-string-compression](https://github.com/NigelTanYong/Leetcode2025/tree/master/0443-string-compression) |
 | [0451-sort-characters-by-frequency](https://github.com/NigelTanYong/Leetcode2025/tree/master/0451-sort-characters-by-frequency) |
+| [0459-repeated-substring-pattern](https://github.com/NigelTanYong/Leetcode2025/tree/master/0459-repeated-substring-pattern) |
 | [0647-palindromic-substrings](https://github.com/NigelTanYong/Leetcode2025/tree/master/0647-palindromic-substrings) |
 | [0657-robot-return-to-origin](https://github.com/NigelTanYong/Leetcode2025/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/NigelTanYong/Leetcode2025/tree/master/0742-to-lower-case) |
@@ -415,4 +416,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/NigelTanYong/Leetcode2025/tree/master/0789-kth-largest-element-in-a-stream) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/NigelTanYong/Leetcode2025/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
