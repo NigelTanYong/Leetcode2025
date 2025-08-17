@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0221-maximal-square](https://github.com/NigelTanYong/Leetcode2025/tree/master/0221-maximal-square) |
 | [0238-product-of-array-except-self](https://github.com/NigelTanYong/Leetcode2025/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0287-find-the-duplicate-number) |
 | [0312-burst-balloons](https://github.com/NigelTanYong/Leetcode2025/tree/master/0312-burst-balloons) |
 | [0334-increasing-triplet-subsequence](https://github.com/NigelTanYong/Leetcode2025/tree/master/0334-increasing-triplet-subsequence) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/NigelTanYong/Leetcode2025/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/NigelTanYong/Leetcode2025/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/NigelTanYong/Leetcode2025/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/NigelTanYong/Leetcode2025/tree/master/0345-reverse-vowels-of-a-string) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -283,6 +285,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/NigelTanYong/Leetcode2025/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/NigelTanYong/Leetcode2025/tree/master/0209-minimum-size-subarray-sum) |
 | [0278-first-bad-version](https://github.com/NigelTanYong/Leetcode2025/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/NigelTanYong/Leetcode2025/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1966-frequency-of-the-most-frequent-element](https://github.com/NigelTanYong/Leetcode2025/tree/master/1966-frequency-of-the-most-frequent-element) |
 | [2263-maximum-running-time-of-n-computers](https://github.com/NigelTanYong/Leetcode2025/tree/master/2263-maximum-running-time-of-n-computers) |
@@ -400,6 +403,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0136-single-number) |
 | [0187-repeated-dna-sequences](https://github.com/NigelTanYong/Leetcode2025/tree/master/0187-repeated-dna-sequences) |
+| [0287-find-the-duplicate-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/NigelTanYong/Leetcode2025/tree/master/0861-flipping-an-image) |
 ## Quickselect
 |  |
