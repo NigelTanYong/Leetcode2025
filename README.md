@@ -123,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0817-design-hashmap](https://github.com/NigelTanYong/Leetcode2025/tree/master/0817-design-hashmap) |
 | [0861-flipping-an-image](https://github.com/NigelTanYong/Leetcode2025/tree/master/0861-flipping-an-image) |
 | [0902-minimum-number-of-refueling-stops](https://github.com/NigelTanYong/Leetcode2025/tree/master/0902-minimum-number-of-refueling-stops) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/NigelTanYong/Leetcode2025/tree/master/1018-binary-prefix-divisible-by-5) |
 | [1127-last-stone-weight](https://github.com/NigelTanYong/Leetcode2025/tree/master/1127-last-stone-weight) |
 | [1305-number-of-visible-people-in-a-queue](https://github.com/NigelTanYong/Leetcode2025/tree/master/1305-number-of-visible-people-in-a-queue) |
 | [1505-create-target-array-in-the-given-order](https://github.com/NigelTanYong/Leetcode2025/tree/master/1505-create-target-array-in-the-given-order) |
@@ -405,6 +406,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0187-repeated-dna-sequences](https://github.com/NigelTanYong/Leetcode2025/tree/master/0187-repeated-dna-sequences) |
 | [0287-find-the-duplicate-number](https://github.com/NigelTanYong/Leetcode2025/tree/master/0287-find-the-duplicate-number) |
 | [0861-flipping-an-image](https://github.com/NigelTanYong/Leetcode2025/tree/master/0861-flipping-an-image) |
+| [1018-binary-prefix-divisible-by-5](https://github.com/NigelTanYong/Leetcode2025/tree/master/1018-binary-prefix-divisible-by-5) |
 ## Quickselect
 |  |
 | ------- |
